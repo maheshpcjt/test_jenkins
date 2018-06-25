@@ -1,3 +1,2 @@
-#!/bin/bash
-clear 
+#!/bin/bash 
 echo "Good morning, world."
